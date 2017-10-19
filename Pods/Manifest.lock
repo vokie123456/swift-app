@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (4.5.0)
+  - ESTabBarController-swift (2.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - ESTabBarController-swift
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  ESTabBarController-swift: 8daa432f2a9be8ebd25101dc46c84472fd760512
+
+PODFILE CHECKSUM: ddf4e1de8290b029a6ea5304503e26fef93d9218
+
+COCOAPODS: 1.2.1
